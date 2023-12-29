@@ -1,0 +1,28 @@
+{
+  "name": "playwright-test-step-decorator",
+  "version": "1.0.0",
+  "description": "Playwright test step decorator util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheboringGithub/Playwright-test-step-decorator.git"
+  },
+  "keywords": [
+    "[playwright",
+    "typescript",
+    "test",
+    "step",
+    "decorators",
+    "javascript",
+    "testing]"
+  ],
+  "author": "Ivan Chepurkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheboringGithub/Playwright-test-step-decorator/issues"
+  },
+  "homepage": "https://github.com/cheboringGithub/Playwright-test-step-decorator#readme"
+}
